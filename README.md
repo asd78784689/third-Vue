@@ -24,7 +24,13 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ``` bash
 # install dependencies
-npm install
+npm install -g cnpm
+
+# install dependencies
+cnpm install -g webpack
+
+# install dependencies
+cnpm install
 
 # serve with hot reload at localhost:8080
 npm run dev
