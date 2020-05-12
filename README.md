@@ -20,13 +20,13 @@ npm run build --report
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-## Build Setup
+## Build Setup If there is a problem
 
 ``` bash
-# install dependencies
+# Install Taobao image
 npm install -g cnpm
 
-# install dependencies
+# install webpack
 cnpm install -g webpack
 
 # install dependencies
