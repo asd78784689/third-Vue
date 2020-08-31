@@ -9,6 +9,10 @@
           4.通过分离各个功能模块，实现模块化，提升效率方便修改。
 ```
 
+### 预览图片:
+![image](https://github.com/asd78784689/third-Vue/blob/master/works-4.png)
+![image](https://github.com/asd78784689/third-Vue/blob/master/works-5.png)
+
 ## Build Setup
 
 ``` bash
